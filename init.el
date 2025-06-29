@@ -758,3 +758,5 @@
 (org-babel-do-load-languages
  'org-babel-load-languages
  '((dot . t)))
+
+(load-file (concat user-emacs-directory "my-packages.el"))
