@@ -4,6 +4,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(bibtex-dialect 'biblatex)
  '(custom-enabled-themes '(ef-spring))
  '(custom-safe-themes
    '("b3ba955a30f22fe444831d7bc89f6466b23db8ce87530076d1f1c30505a4c23b"
@@ -11,6 +12,7 @@
  '(denote-directory "/Users/gianpietro/Documents/Denote")
  '(ews-bibtex-directory "/Users/gianpietro/Documents/Denote")
  '(ews-hunspell-dictionaries "en_US,it_IT")
+ '(org-export-with-broken-links 'mark)
  '(package-selected-packages
    '(balanced-windows biblio citar-denote consult-notes denote-explore
 		      denote-journal denote-org denote-sequence
