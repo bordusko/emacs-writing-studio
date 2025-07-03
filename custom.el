@@ -10,6 +10,7 @@
    '("b3ba955a30f22fe444831d7bc89f6466b23db8ce87530076d1f1c30505a4c23b"
      default))
  '(denote-directory "/Users/gianpietro/Documents/Denote")
+ '(denote-journal-directory "/Users/gianpietro/Documents/Denote/journal")
  '(ews-bibtex-directory "/Users/gianpietro/Documents/Denote")
  '(ews-hunspell-dictionaries "en_US,it_IT")
  '(org-export-with-broken-links 'mark)
