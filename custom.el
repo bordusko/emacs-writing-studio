@@ -13,6 +13,8 @@
  '(denote-journal-directory "/Users/gianpietro/Documents/Denote/journal")
  '(ews-bibtex-directory "/Users/gianpietro/Documents/Denote")
  '(ews-hunspell-dictionaries "en_US,it_IT")
+ '(org-default-notes-file
+   "/Users/gianpietro/Documents/Denote/20250517T092307--inbox.org")
  '(org-export-with-broken-links 'mark)
  '(package-selected-packages
    '(balanced-windows biblio citar-denote consult-notes denote-explore
